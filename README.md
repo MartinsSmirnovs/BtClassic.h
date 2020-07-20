@@ -32,13 +32,13 @@ If you want to send ```yourValue`` that is less than 100 or 10, additional zeros
 # Examples
 
 - ```<2411>```
-- type = 2
-- value = 411
+type = 2
+value = 411
 
 - ```<0002>```
-- type = 0
-- value = 2
+type = 0
+value = 2
 
 - ```<0000>```
-- type = 0
-- value = 0
+type = 0
+value = 0
