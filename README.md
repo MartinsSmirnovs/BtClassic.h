@@ -1,13 +1,9 @@
 # BtClassic.h
 # Table of contents
-- [Usage](https://github.com/Onii-Chaan/RoboArm/tree/master#usage)
-- [Libraries used](https://github.com/Onii-Chaan/RoboArm/tree/master#libraries-used)
-  - [Hardware](https://github.com/Onii-Chaan/RoboArm/tree/master#hardware)
-  - [App](https://github.com/Onii-Chaan/RoboArm/tree/master#app)
-- [Setup](https://github.com/Onii-Chaan/RoboArm/tree/master#setup)
-    - [Hardware setup](https://github.com/Onii-Chaan/RoboArm/tree/master#hardware-setup)
-    - [App setup](https://github.com/Onii-Chaan/RoboArm/tree/master#app-setup)
-- [Circuit & result](https://github.com/Onii-Chaan/RoboArm/tree/master#circuit--result)
+- [Usage](https://github.com/Onii-Chaan/BtClassic.h/blob/master/README.md#usage)
+- [Methods](https://github.com/Onii-Chaan/BtClassic.h/blob/master/README.md#methods)
+- [Protocol](https://github.com/Onii-Chaan/BtClassic.h/blob/master/README.md#protocol)
+- [Examples](https://github.com/Onii-Chaan/BtClassic.h/blob/master/README.md#examples)
 
 # Usage
 Arduino library for receiving Serial data on Rx/Tx pins and processing it. Using custom made protocol, you can send up to 10 commands and parameters with them.
